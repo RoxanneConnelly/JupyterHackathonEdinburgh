@@ -6,4 +6,4 @@ Resources from the Social Science Goldrush Jupyter Hackathon 29th of May Univers
 Introduction to Version Control ([slides](https://www.dropbox.com/s/rtkvater1nngd0q/vcForSocialScientists.pptx?dl=0))
 zz_intro_jupyter_20170124_vg_v1.pdf is a file with introductory material for social scientists new to the Jupyter Notebooks.
 
-### Jupyter Notebook Tutorial: The Definitive Guide (https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.GaBMLPE) 
+### Jupyter Notebook Tutorial: The Definitive Guide ([here](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.GaBMLPE))
